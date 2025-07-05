@@ -290,7 +290,7 @@ export default function YourStudioInspired() {
             <div className="absolute inset-0 bg-gradient-to-r from-purple-400/10 to-pink-400/10 rounded-3xl blur-3xl"></div>
             <div className="relative bg-white/80 backdrop-blur-sm rounded-3xl p-12 md:p-16 shadow-xl border border-gray-100/50">
               <blockquote className="text-2xl md:text-3xl font-light leading-relaxed mb-12 text-gray-800 italic">
-                "Every frame should whisper poetry, every moment should breathe life, and every story should echo through time."
+                &quot;Every frame should whisper poetry, every moment should breathe life, and every story should echo through time.&quot;
               </blockquote>
               <div className="w-24 h-px bg-gradient-to-r from-transparent via-gray-400 to-transparent mx-auto mb-8"></div>
               <p className="text-lg font-light opacity-70 max-w-3xl mx-auto leading-relaxed">
@@ -305,7 +305,7 @@ export default function YourStudioInspired() {
       <section id="contact" className="py-32 bg-gradient-to-br from-gray-900 via-black to-gray-900 text-white relative overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(255,255,255,0.1)_0%,transparent_50%)]"></div>
         <div className="max-w-4xl mx-auto px-8 text-center relative">
-          <h2 className="text-5xl md:text-6xl font-thin mb-8 tracking-wide">Let's Create</h2>
+          <h2 className="text-5xl md:text-6xl font-thin mb-8 tracking-wide">Let&apos;s Create</h2>
           <div className="w-32 h-px bg-gradient-to-r from-transparent via-white to-transparent mx-auto mb-12"></div>
           <p className="text-xl font-light mb-16 opacity-80">Ready to tell your story?</p>
           
@@ -326,7 +326,7 @@ export default function YourStudioInspired() {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-8 md:space-y-0">
             <div className="text-center md:text-left">
               <div className="text-sm font-light tracking-wider opacity-60 mb-2">© 2025 Your STUDIO</div>
-              <div className="text-xs font-light tracking-wider opacity-40">ALL RIGHTS RESERVED</div>
+              <div className="text-xs font-light tracking-wider opacity-40">ALL RIGHTS RESERVED | Made by Anuj</div>
             </div>
             <div className="flex space-x-12 text-sm font-light tracking-wider">
               <a href="#" className="hover:opacity-60 transition-all duration-500 relative group">
